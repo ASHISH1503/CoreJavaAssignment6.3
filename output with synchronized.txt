@@ -1,0 +1,26 @@
+P2  tries to withdraw
+P2  withdraws Rs.200
+P2  remaining balance after withdraw is Rs.800
+P2  tries to withdraw
+P2  withdraws Rs.200
+P2  remaining balance after withdraw is Rs.600
+P2   tries to deposit
+P2  deposit Rs.200
+P2  balance after deposit is 800
+P1  tries to withdraw
+P1  withdraws Rs.200
+P1  remaining balance after withdraw is Rs.600
+P1   tries to deposit
+P1  deposit Rs.200
+P1  balance after deposit is 800
+P2  tries to withdraw
+P2  withdraws Rs.200
+P2  remaining balance after withdraw is Rs.600
+P2   tries to deposit
+P2  deposit Rs.200
+P2  balance after deposit is 800
+Final Acc balance is Rs.800
+P2   tries to deposit
+P2  deposit Rs.200
+P2  balance after deposit is 1000
+Final Acc balance is Rs.1000
